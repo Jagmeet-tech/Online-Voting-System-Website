@@ -1,0 +1,92 @@
+body{
+    
+    height:1000px;
+    width: 1351px;
+    background: url('newbharat2.jpg');
+}
+header {
+    width: 100%;
+    height: 54px;
+    /* border: 2px solid green; */
+    background-color:khaki;
+    position: absolute;
+    top: 0px;
+    margin: 0px 0px;
+    padding: 0px;
+    left: 0px
+    ;
+}
+a {
+    color: black;
+    text-decoration: none;
+    color: gre;
+    padding: 36px;
+    font-family: cursive;
+    font-size: 22px;
+}
+a:hover,a.m:hover,a:active,a.m:active{
+    color:white ;
+
+}
+/*a:active,a.m:active{
+    background-color: red;
+    width:20px ;
+    height:30px;
+}*/
+.nav {
+    padding: 20px;
+    text-align: right;
+   
+}
+.container {
+    border: 2px solid white;
+    height: 196px;
+    margin: 111px;
+    width: 370px;
+    position: absolute;
+    left: 402px;
+    top: 184px;
+    border-radius: 10px;
+}
+div> form{
+    text-align: center;
+}
+span {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 29px;
+    top: 23px;
+    position: relative;
+    color: yellow;
+    
+}
+.id {
+    margin-top: 42px;
+    font-size: 15px;
+    width: 298px;
+    text-align: center;
+    color:black;
+    height: 30px;
+}
+.login {
+    background-color:orange;
+    width: 112px;
+    margin-top: 18px;
+    font-family: fantasy;
+}
+a.m {
+    position: absolute;
+    padding: 12px 24px;
+    color: cyan;
+    font-family: cursive;
+}
+h1 {
+    text-align: left;
+    position: absolute;
+    z-index: 2;
+    top: -12px;
+    color: black;
+    left: 39px;
+    font-family:cursive;
+    text-shadow: white 2px 4px 5px;
+}
